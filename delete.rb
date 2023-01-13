@@ -1,0 +1,1 @@
+File.delete("delete.rb") if File.exist?("delete.rb")

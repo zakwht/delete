@@ -1,0 +1,1 @@
+OS.FileSys.remove "delete.sml";
