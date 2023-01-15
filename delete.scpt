@@ -1,0 +1,1 @@
+tell application "Finder" to delete file (path to me as string)
